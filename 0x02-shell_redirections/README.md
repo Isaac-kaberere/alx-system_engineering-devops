@@ -1,1 +1,1 @@
-A file to display the contents of a file 
+A file to display the contents of files
