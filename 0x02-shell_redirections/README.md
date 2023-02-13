@@ -1,1 +1,1 @@
-A file to display the last 10 lines
+A file that displays all users and their home directories, sorted by users.
