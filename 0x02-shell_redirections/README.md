@@ -1,1 +1,1 @@
-A file to echo hello world.
+A file to displayy a confused smiley 
